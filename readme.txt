@@ -19,7 +19,7 @@ Displays the OneTrueFan bar on your blog, bringing to light the community that a
 2. Expand the Plugins menu on the right-hand side, and select "Add New" from the submenu
 3. Search for "onetruefan"
 4. Enter your connection information and click "Proceed"
-5. Activate the plugin in the Plugins pane after the upload in complete
+5. Activate the plugin in the Plugins pane after the upload is complete
 
 **Manual instructions**
 
